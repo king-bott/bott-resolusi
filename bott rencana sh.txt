@@ -1,4 +1,6 @@
 RENCANA SH:
 -sturtup makanan
+ *pentol
+ *somai
 -blog
 -software dealer
