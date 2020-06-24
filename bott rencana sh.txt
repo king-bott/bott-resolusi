@@ -3,6 +3,7 @@ RENCANA SH:
  *pentol
  *somai
   ^krispi
+  ^rebus
 -cafe kohi
 -blog
   ^gaming
