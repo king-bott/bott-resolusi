@@ -2,8 +2,10 @@ RENCANA SH:
 -sturtup makanan
  *pentol
  *somai
-  ^bakar
+  ^krispi
   ^rebus
+-cafe kohi
 -blog
   ^gaming
 -software dealer
+-rumah makan
